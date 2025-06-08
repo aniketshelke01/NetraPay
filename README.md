@@ -9,6 +9,9 @@ NetraPay is a secure payment system using Aadhaar-based IRIS biometric and 6-dig
 - `UIDAI_Simulation/` : Python server simulating Aadhaar verification
 - `Docs/` : Research paper, circuit diagrams
 - `App_UI/` : App design mockups
+- ## 📱 App UI Mockup
+🖼 [Click here to view NetraPay App UI (PDF)](App_UI/NetraPay_UI_Mockup_Pro.pdf)
+
 
 ## Developed By
 Aniket Dattatray Shelke  
